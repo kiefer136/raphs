@@ -3,7 +3,7 @@ body {
 }
 .navbar-inverse {
   text-align: center;
-  background-color: #1C1C1C;
+  background-color: #1E0031;
 }
 /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
 .row.content {
@@ -31,4 +31,18 @@ footer {
     padding: 15px;
   }
   .row.content {height: auto;} 
+}
+
+.carousel {
+  display: inline-block; 
+}
+
+#logo {
+  font-family: serif;
+  font-style: italic;
+  font-size: 6em;
+  color:#00CFFF;
+}
+.navbar-brand {
+  color: blue;
 }
